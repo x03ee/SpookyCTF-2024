@@ -27,7 +27,6 @@ Below are the images you will be working with:
 ![Image 3](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p3.PNG)
 ![Image 4](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p4.PNG)
 ![Image 5](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p5.PNG)
-![Image 6](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/p6.png)
 ![Image 7](https://github.com/x03ee/SpookyCTF-2024/blob/main/Forensic/wont-somebody-think-of-the-children/final.PNG)
 
 - Pay attention to the metadata of the decoded image files; it may give clues about the correct image.
