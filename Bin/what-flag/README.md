@@ -4,5 +4,7 @@ Upon analyzing the binary in Binary Ninja, we discovered variables hinting at th
 
 ![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Bin/what-flag/f1.PNG)
 
-```NICC{uhH_fl@g_i_ThInk}``` 
+```
+NICC{uhH_fl@g_i_ThInk}
+``` 
 
