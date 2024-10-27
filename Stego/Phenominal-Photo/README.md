@@ -2,6 +2,8 @@
 
 Use **Steghide** to extract hidden data from the image file.
 
+![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Stego/Phenominal-Photo/boo.jpg)
+
 ---
 
 ### Ship#1 Folder: `Map.txt`
