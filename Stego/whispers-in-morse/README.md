@@ -1,8 +1,12 @@
 # Whisperz in Morse
 
+![image](https://github.com/x03ee/SpookyCTF-2024/blob/main/Stego/whispers-in-morse/MaryMorse.jpg)
+
 ## Description
 
 In this challenge, titled **Whisperz in Morse**, participants must extract a hidden flag from the provided image file `MaryMorse.jpg` using steganography techniques.
+
+![image1](https://github.com/x03ee/SpookyCTF-2024/blob/main/Stego/whispers-in-morse/strings.png)
 
 ## Steps to Solve
 
